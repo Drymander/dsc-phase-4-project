@@ -1,5 +1,5 @@
 
-![imdb](images/imdb.png)
+![IMDB](images/IMDB.png)
 
 # IMDB Review Sentiment Analysis
 
